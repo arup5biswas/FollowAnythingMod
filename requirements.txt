@@ -1,0 +1,15 @@
+opencv-python 
+torch 
+mavsdk 
+rtsp 
+scipy 
+open_clip_torch
+segment_anything
+scikit-image
+matplotlib
+numpy
+transformers
+addict
+yapf
+pycocotools
+supervision
